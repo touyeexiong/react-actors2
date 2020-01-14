@@ -4,7 +4,7 @@ class Header extends Component {
     render() {
         return (
         <header>
-            <h1>Mission Control</h1>
+            <h1>React Actors</h1>
         </header>
         );
     }
